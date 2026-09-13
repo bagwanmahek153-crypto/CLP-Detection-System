@@ -1,2 +1,2 @@
 # CLP-Detection-System
-A project that detects cleft lip and palate using Voice and image analysis.
+A project that helps in assessting cleft lip and palate using Voice and image analysis.
